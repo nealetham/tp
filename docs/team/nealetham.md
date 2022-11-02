@@ -12,7 +12,8 @@ Given below is a summary of my notable contributions to the project. You can fin
 ### Project management
 * Setting up the GitHub team organization, repository, Codecov & Gradle.
 * Renaming the product & changing product icon.
-* Administrative tasks such as meeting minutes & work delegation in the weekly scrum meeting.
+* Recorded the minutes for our weekly scrum meeting minutes.
+* Ensured fair work delegation & meeting of milestone deadlines.
 
 ### Code contribution
 * Enhancements to new & existing features
