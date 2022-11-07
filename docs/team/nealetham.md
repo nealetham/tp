@@ -24,6 +24,8 @@ Given below is a summary of my notable contributions to the project. You can fin
   * Model Manager unit tests ([#298](https://github.com/AY2223S1-CS2103T-W12-3/tp/pull/298)).
   * Sample residents, venues & bookings ([#182](https://github.com/AY2223S1-CS2103T-W12-3/tp/pull/182)).
 
+<br>
+
 ### Documentation
 * User Guide
   * Ported from `AB3` to `RC4HDB` to meet our specifications. Crafted the introduction, value proposition and target audience.
