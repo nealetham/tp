@@ -16,7 +16,7 @@ Given below is a summary of my notable contributions to the project. You can fin
 
 ### Code contribution
 * Enhancements to new & existing features
-  * Reworked the Ui to comply with our specifications & user's needs. ([#65](https://github.com/AY2223S1-CS2103T-W12-3/tp/pull/65), [#66](https://github.com/AY2223S1-CS2103T-W12-3/tp/pull/66), [#86](https://github.com/AY2223S1-CS2103T-W12-3/tp/pull/86), [#101](https://github.com/AY2223S1-CS2103T-W12-3/tp/pull/104), [#141](https://github.com/AY2223S1-CS2103T-W12-3/tp/pull/144), [#192](https://github.com/AY2223S1-CS2103T-W12-3/tp/pull/192))
+  * Reworked the Ui to comply with our specifications & user's needs. ([#65](https://github.com/AY2223S1-CS2103T-W12-3/tp/pull/65), [#66](https://github.com/AY2223S1-CS2103T-W12-3/tp/pull/66), [#86](https://github.com/AY2223S1-CS2103T-W12-3/tp/pull/86), [#104](https://github.com/AY2223S1-CS2103T-W12-3/tp/pull/104), [#144](https://github.com/AY2223S1-CS2103T-W12-3/tp/pull/144), [#192](https://github.com/AY2223S1-CS2103T-W12-3/tp/pull/192))
   * Reworked `find` to perform substring search ([#31](https://github.com/AY2223S1-CS2103T-W12-3/tp/pull/31)).
   * Implemented all [quality-of-life](https://ay2223s1-cs2103t-w12-3.github.io/tp/UserGuide.html#quality-of-life) functionalities. ([#104](https://github.com/AY2223S1-CS2103T-W12-3/tp/pull/104)).
 * Miscellaneous contributions
