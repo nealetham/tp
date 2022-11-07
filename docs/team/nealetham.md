@@ -28,8 +28,6 @@ Given below is a summary of my notable contributions to the project. You can fin
 
 <br>
 
-<br>
-
 ### Documentation
 * User Guide
   * Ported from `AB3` to `RC4HDB` to meet our specifications. Crafted the introduction, value proposition and target audience.
@@ -47,6 +45,10 @@ Given below is a summary of my notable contributions to the project. You can fin
 * Reviewed [***38*** pull requests](https://github.com/AY2223S1-CS2103T-W12-3/tp/pulls?q=is%3Apr+is%3Aclosed+reviewed-by%3Anealetham). Many had non-trivial review comments, such as [#110](https://github.com/AY2223S1-CS2103T-W12-3/tp/pull/110), [#257](https://github.com/AY2223S1-CS2103T-W12-3/tp/pull/257) & [#76](https://github.com/AY2223S1-CS2103T-W12-3/tp/pull/110). Discussions also took place offline.
 * Contributed to ***4*** forum discussions, such as [differences between association, composition, aggregation](https://github.com/nus-cs2103-AY2223S1/forum/issues/86#issuecomment-1229400456) & [failing Codecov/patch check](https://github.com/nus-cs2103-AY2223S1/forum/issues/330). Others include [#338](https://github.com/nus-cs2103-AY2223S1/forum/issues/338#issuecomment-1273258711), [#401](https://github.com/nus-cs2103-AY2223S1/forum/issues/401).
 * Surfaced [***12*** potential bugs & suggestions](https://github.com/nealetham/ped/issues?q=is%3Aopen+is%3Aissue) for other teams during PE-D. These include [non-functioning theme switcher](https://github.com/nealetham/ped/issues/4) & [missing target-user & value proposition](https://github.com/nealetham/ped/issues/10).
+
+<br>
+
+<br>
 
 <br>
 
