@@ -3,7 +3,7 @@ layout: page
 title: Project Portfolio Page for Neale
 ---
 
-### RC4HDB
+## Project: RC4HDB
 
 RC4HDB is a desktop application which streamlines the daily workflow of RC4 housing management staff, by providing specialised features which solve their resident & venue management needs.
 
